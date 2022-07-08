@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1> Jacqueline Salinas' Portfolio</h1>
