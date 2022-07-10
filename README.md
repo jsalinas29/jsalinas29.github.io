@@ -14,3 +14,4 @@
 <h3> MIT | xPro: Professional Certificate in Coding</h3>
 <section>
 <p> Join me on my journey as I learn to code!<p/>
+</html>
