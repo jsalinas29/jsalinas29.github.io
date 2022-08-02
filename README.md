@@ -16,13 +16,17 @@
 <section>
 <h3>MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN </h3>
 <section>
+<section>
 <p> Join me on my journey as I learn to code! Why am I doing this? Well, I wanted to be able to relate more to the core audience I've been marketing to for the past 11+ years and to get over my fear of coding. 
-
+<section>
+<section>
 What am I learning here? 
 This course is designed to prepare me with the skills I will need to start or continue a career in web and application development. By the end of this course, I'll have the foundations to work confidently in the MERN technology stack.
-
+<section>
+<section>
 Key takeaways for this course include:
-
+<section>
+<section>
 - Build, test, and deploy a web application using the MERN stack
 - Build, test, and deploy APIs
 - Build, test, and deploy a front-end web application using React
