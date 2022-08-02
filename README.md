@@ -18,8 +18,10 @@
 
 <p> Join me on my journey as I learn to code! Why am I doing this? Well, I wanted to be able to relate more to the core audience I've been marketing to for the past 11+ years and to get over my fear of coding. 
 
+
 What am I learning here? 
 This course is designed to prepare me with the skills I will need to start or continue a career in web and application development. By the end of this course, I'll have the foundations to work confidently in the MERN technology stack.
+
 
 Key takeaways for this course include:
 - Build, test, and deploy a web application using the MERN stack
