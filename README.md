@@ -25,12 +25,10 @@ This course is designed to prepare me with the skills I will need to start or co
 <section>
 <section>
 Key takeaways for this course include:
-<section>
-<section>
 - Build, test, and deploy a web application using the MERN stack
 - Build, test, and deploy APIs
 - Build, test, and deploy a front-end web application using React
 - Setup Continuous Integration (CI) and Continuous Delivery (CD) pipelines to deploy a React application
 - Github portfolio of my work to present to potential employers 
 <p/>
-</html>
+
